@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GalagaUSFX_LAB06.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Mi Repositorio Final\copia\GalagaUSFX_Trabajo02_SegundoParcial-master\Intermediate\Build\Win64\GalagaUSFX_LAB06Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Mi Repositorio Final\copia\GalagaUSFX_Trabajo02_SegundoParcial-master\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_LAB06\Module.GalagaUSFX_LAB06.cpp.obj"
+"D:\Mi Repositorio Final\copia\GalagaUSFX_Trabajo02_SegundoParcial-master\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_LAB06\Module.GalagaUSFX_LAB06.gen.cpp.obj"
+"D:\Mi Repositorio Final\copia\GalagaUSFX_Trabajo02_SegundoParcial-master\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_LAB06\Default.rc2.res"
+/OUT:"D:\Mi Repositorio Final\copia\GalagaUSFX_Trabajo02_SegundoParcial-master\Intermediate\Build\Win64\UE4Editor\Development\GalagaUSFX_LAB06\UE4Editor-GalagaUSFX_LAB06.lib"
